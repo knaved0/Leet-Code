@@ -1,2 +1,2 @@
 # Leet-Code
-Completed Leet Code problems. 
+Completed Leet Code problems in Java. 
